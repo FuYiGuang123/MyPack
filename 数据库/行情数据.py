@@ -14,7 +14,7 @@ class Class_K线数据:
             r"SERVER=192.168.1.251;"
             r"DATABASE=行情数据;"
             r"UID=sa;"
-            r"PWD=abc19941212;"
+            r"PWD=;"
         )
 
     def 初始化连接(self):
